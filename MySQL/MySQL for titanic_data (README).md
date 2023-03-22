@@ -5,13 +5,24 @@ And the last file is the **Ttianic_data.csv(Cleaning and analysing the data)** t
 The titanic (raw) includes twelve columns **(PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked)**.
 
 The cleaning and analyzing tasks were answered using:
+
  - *SELECT* statement
+ 
  - *FROM* Clause
+ 
  - *WHERE* Clause
+ 
  - *GROUP BY* Clause
+ 
  - *HAVING* Clause
+ 
  - *ORDER BY* Clause
+ 
  - *LIMIT* Clause
+ 
  - *CTE (Common Table Expressions)*
+ 
  - *Subqueries* 
- - *Window Functions*.
+ 
+ - *Window Functions*
+ 
