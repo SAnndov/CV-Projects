@@ -28,7 +28,7 @@ Tasks to complete:
 
 **SALES REPORT**
 
-**1**Make 4 different slicers (slicer for Year and Month, slicer for ProductName, SalesRepresentative slicer and Country slicer).
+**1.** Make 4 different slicers (slicer for Year and Month, slicer for ProductName, SalesRepresentative slicer and Country slicer).
 
 **2.** Create metrics with DAX Functions for calculating the Revenue, COGS (Cost Of Goods Sold), Gross Profit, Gross Profit Margin and show the COGS per SubCategory on **Pie chart**.
 
